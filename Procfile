@@ -1,2 +1,1 @@
-web: apt-get update && apt-get install -y ffmpeg && python main.py
-
+web: pip install PyNaCl && python main.py
